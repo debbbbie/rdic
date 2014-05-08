@@ -2,3 +2,6 @@ rdic
 ============
 
 rdic
+
+## Usage
+rdic

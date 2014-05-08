@@ -1,0 +1,12 @@
+childprocess
+resetids
+setpgroup
+setsigdef
+setsigmask
+sigbreak
+sigint
+sigkill
+startf
+usestdhandles
+usevfork
+waitpid
